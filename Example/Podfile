@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MARSDK_ADVERT_Tests' do
+  pod 'MARSDK_ADVERT', :path => '../'
+  
+  
+end
