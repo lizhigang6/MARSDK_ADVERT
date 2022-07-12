@@ -33,6 +33,8 @@ typedef NS_ENUM(NSInteger, EmptyStateCode)
 
 @interface EPlatform : NSObject
 @property (nonatomic,assign) NSString *isThirdPartylogin;
+@property (nonatomic,strong) NSDictionary  *sdkconfigDict;
+@property (nonatomic,strong) NSDictionary  *ADVERTDict;
 
 @property id<EPlatformDelegate> delegate;
 
