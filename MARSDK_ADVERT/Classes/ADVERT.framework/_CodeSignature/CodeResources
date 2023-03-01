@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		X4PESYIegd1MluKR+RzHgRRZRAA=
+		</data>
 		<key>Headers/ADModel.h</key>
 		<data>
 		Ypwzb7ha0990vmbIxK66I1kGgrI=
@@ -18,7 +22,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		L9heECWfyh+u6FWBWMAqU7i+f3s=
+		uV8Ntd71/SIRclq7fLsUSGbkPcI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
