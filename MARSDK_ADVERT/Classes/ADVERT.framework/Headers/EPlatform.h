@@ -47,6 +47,7 @@ typedef NS_ENUM(NSInteger, EmptyStateCode)
 -(void)login:(UIViewController*)viewController;
 
 -(void)logout;
+-(void)logins;
 
 
 
@@ -59,7 +60,6 @@ typedef NS_ENUM(NSInteger, EmptyStateCode)
 - (void)applicationWillResignActive:(UIApplication *)application;
 
 
--(void)initWithGameAppId;
 
 -(void)exitApplication;
 

@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>.DS_Store</key>
-		<data>
-		ow5OOgW7hhIklYoVQkoSNc6x4Aw=
-		</data>
 		<key>Headers/ADModel.h</key>
 		<data>
 		Ypwzb7ha0990vmbIxK66I1kGgrI=
@@ -18,11 +14,11 @@
 		</data>
 		<key>Headers/EPlatform.h</key>
 		<data>
-		K62+LAihUdf70dh39GLjpABwimc=
+		5AmLU37xz1BPcy6Lq2O8yLiAujk=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		pKw7lk82IpZ1UDj+a7kjbXWn9us=
+		alxHMw/LihjpS2Xroy0ISjfVhUI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -113,11 +109,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			K62+LAihUdf70dh39GLjpABwimc=
+			5AmLU37xz1BPcy6Lq2O8yLiAujk=
 			</data>
 			<key>hash2</key>
 			<data>
-			+dlXkxZFPaVtSNfkh0SLUM3H/le+6MllD+gg+4yzhSU=
+			/Ehuuhn3chCil0xi4GZTgHW6iVG7Vs2C75O+xEzLEfY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
