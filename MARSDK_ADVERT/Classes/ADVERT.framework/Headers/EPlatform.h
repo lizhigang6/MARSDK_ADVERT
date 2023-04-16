@@ -47,7 +47,6 @@ typedef NS_ENUM(NSInteger, EmptyStateCode)
 -(void)login:(UIViewController*)viewController;
 
 -(void)logout;
--(void)logins;
 
 
 
