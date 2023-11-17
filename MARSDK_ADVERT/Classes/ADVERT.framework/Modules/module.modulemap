@@ -1,6 +1,6 @@
 framework module ADVERT {
   umbrella header "ADVERT.h"
-
   export *
+
   module * { export * }
 }
